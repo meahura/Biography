@@ -179,5 +179,5 @@ class shar:
 
 
 
-        new = randrange(116)
+        new = randrange(168)
         return Snumber[new]
